@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Woo Additional Tax Options
-Plugin URI: https://github.com/anant1811
-Description: Additional Tax Options for WooCommerce
+Plugin Name: Additional Tax Options for WooCommerce
+Plugin URI: https://github.com/anant1811/woo-additional-tax-options-plugin
+Description: This plugin adds the following tax options: 1 - Absorb the difference in tax rates and charge the same "tax inclusive" price to all customers. 2 - When the customer selects "Local Pickup", charge them tax based on their location instead of the shop base location.
 Version: 1.0.0
 Contributors: wpnomad
 Author: wpnomad
