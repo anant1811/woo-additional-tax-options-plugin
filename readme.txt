@@ -3,7 +3,7 @@ Contributors: wpnomad
 Donate link: 
 Tags: woocommerce, tax
 Requires at least: 4.0
-Tested up to: 4.8
+Tested up to: 5.5.3
 Stable tag: 
 Requires PHP: 5.4
 License: GPLv2 or later
@@ -45,5 +45,5 @@ This section describes how to install the plugin and get it working.
 
 == Changelog ==
  
-Aug 9, 2020 - Version 1.0.0
+Nov 9, 2020 - Version 1.0.0
 
