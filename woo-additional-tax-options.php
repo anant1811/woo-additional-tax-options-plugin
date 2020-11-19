@@ -9,7 +9,7 @@ Author: wpnomad
 Author URI: https://github.com/anant1811
 License: GPLv2 or later
 License URI:  https://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: wpplugin
+Text Domain: additional-tax-options-for-woocommerce
 Domain Path:  /languages
 */
 
@@ -18,13 +18,9 @@ if ( ! defined( 'WPINC' ) ) {
   die;
 }
 
-// Define plugin paths and URLs
-define( 'WPPLUGIN_URL', plugin_dir_url( __FILE__ ) );
-define( 'WPPLUGIN_DIR', plugin_dir_path( __FILE__ ) );
-
 
 // Create Settings Fields
-include( plugin_dir_path( __FILE__ ) . 'includes/wpplugin-settings-fields.php');
+include( plugin_dir_path( __FILE__ ) . 'includes/additional-tax-settings-fields.php');
 
 // Run the filters based on settings values
 
